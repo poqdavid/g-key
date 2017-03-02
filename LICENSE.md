@@ -1,3 +1,4 @@
+Copyright (c) 2017, POQDavid
 Copyright (c) 2015, Jules Blok
 All rights reserved.
 
